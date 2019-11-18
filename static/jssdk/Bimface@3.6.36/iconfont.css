@@ -1,0 +1,299 @@
+@font-face {font-family: "gld-bimface";
+  src: url('iconfont.eot?t=1564479105198'); /* IE9 */
+  src: url('iconfont.eot?t=1564479105198#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('iconfont.woff2') format('woff2'),
+  url('iconfont.woff?t=1564479105198') format('woff'),
+  url('iconfont.ttf?t=1564479105198') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1564479105198#gld-bimface') format('svg'); /* iOS 4.1- */
+}
+
+.gld-bimface {
+  font-family: "gld-bimface" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.gld-bf-close16:before {
+  content: "\e603";
+}
+
+.gld-bf-orbitcamera:before {
+  content: "\e607";
+}
+
+.gld-bf-orbitpoint:before {
+  content: "\e608";
+}
+
+.gld-bf-properties:before {
+  content: "\e609";
+}
+
+.gld-bf-settings:before {
+  content: "\e60b";
+}
+
+.gld-bf-notes:before {
+  content: "\e622";
+}
+
+.gld-bf-narrow:before {
+  content: "\e62a";
+}
+
+.gld-bf-ncloud:before {
+  content: "\e615";
+}
+
+.gld-bf-noval:before {
+  content: "\e624";
+}
+
+.gld-bf-nrectangle:before {
+  content: "\e625";
+}
+
+.gld-bf-ntext:before {
+  content: "\e626";
+}
+
+.gld-bf-mark:before {
+  content: "\e627";
+}
+
+.gld-bf-home:before {
+  content: "\e700";
+}
+
+.gld-bf-delete:before {
+  content: "\e712";
+}
+
+.gld-bf-map:before {
+  content: "\e738";
+}
+
+.gld-bf-maximize:before {
+  content: "\e739";
+}
+
+.gld-bf-minimize:before {
+  content: "\e73a";
+}
+
+.gld-bf-reset-box:before {
+  content: "\e73b";
+}
+
+.gld-bf-rotate-box:before {
+  content: "\e73c";
+}
+
+.gld-bf-box-hide:before {
+  content: "\e73d";
+}
+
+.gld-bf-information:before {
+  content: "\e73e";
+}
+
+.gld-bf-sectionbox:before {
+  content: "\e73f";
+}
+
+.gld-bf-selected:before {
+  content: "\e740";
+}
+
+.gld-bf-infor:before {
+  content: "\e741";
+}
+
+.gld-bf-tree:before {
+  content: "\e742";
+}
+
+.gld-bf-zoomrect:before {
+  content: "\e74b";
+}
+
+.gld-bf-shangjiantou:before {
+  content: "\e76f";
+}
+
+.gld-bf-xiajiantou:before {
+  content: "\e770";
+}
+
+.gld-bf-dingwei:before {
+  content: "\e76e";
+}
+
+.gld-bf-measure:before {
+  content: "\e778";
+}
+
+.gld-bf-firstperson:before {
+  content: "\e779";
+}
+
+.gld-bf-add:before {
+  content: "\e77a";
+}
+
+.gld-bf-minus:before {
+  content: "\e77b";
+}
+
+.gld-bf-arrow-up:before {
+  content: "\e664";
+}
+
+.gld-bf-auto:before {
+  content: "\e665";
+}
+
+.gld-bf-on-off:before {
+  content: "\e667";
+}
+
+.gld-bf-arrow-down:before {
+  content: "\e666";
+}
+
+.gld-bf-orbit:before {
+  content: "\e77c";
+}
+
+.gld-bf-pan:before {
+  content: "\e77d";
+}
+
+.gld-bf-zoom:before {
+  content: "\e77e";
+}
+
+.gld-bf-view:before {
+  content: "\e77f";
+}
+
+.gld-bf-distance:before {
+  content: "\e780";
+}
+
+.gld-bf-angle:before {
+  content: "\e781";
+}
+
+.gld-bf-show:before {
+  content: "\e782";
+}
+
+.gld-bf-hide:before {
+  content: "\e783";
+}
+
+.gld-bf-layers:before {
+  content: "\e784";
+}
+
+.gld-bf-min-:before {
+  content: "\e785";
+}
+
+.gld-bf-max-:before {
+  content: "\e786";
+}
+
+.gld-bf-axial-:before {
+  content: "\e787";
+}
+
+.gld-bf-sectionbox1:before {
+  content: "\e788";
+}
+
+.gld-bf-axial:before {
+  content: "\e789";
+}
+
+.gld-bf-section-axial:before {
+  content: "\e78a";
+}
+
+.gld-bf-properties-:before {
+  content: "\e78b";
+}
+
+.gld-bf-transparent:before {
+  content: "\e78c";
+}
+
+.gld-bf-untransparent:before {
+  content: "\e78d";
+}
+
+.gld-bf-up:before {
+  content: "\e78e";
+}
+
+.gld-bf-down:before {
+  content: "\e78f";
+}
+
+.gld-bf-n-cloud:before {
+  content: "\e66b";
+}
+
+.gld-bf-route:before {
+  content: "\e790";
+}
+
+.gld-bf-shijiaoqiehuan:before {
+  content: "\e6ac";
+}
+
+.gld-bf-bofang:before {
+  content: "\e6ad";
+}
+
+.gld-bf-zanting:before {
+  content: "\e6ae";
+}
+
+.gld-bf-fittobox:before {
+  content: "\e792";
+}
+
+.gld-bf-distance-min:before {
+  content: "\e794";
+}
+
+.gld-bf-area:before {
+  content: "\e795";
+}
+
+.gld-bf-rotate-horizontal:before {
+  content: "\e796";
+}
+
+.gld-bf-rotate-vertical:before {
+  content: "\e797";
+}
+
+.gld-bf-hide-slice:before {
+  content: "\e798";
+}
+
+.gld-bf-elevation:before {
+  content: "\e7aa";
+}
+
+.gld-bf-n-ployline:before {
+  content: "\e7ac";
+}
+.gld-bf-explode:before {
+  content: "\e7b0";
+}
